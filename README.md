@@ -31,14 +31,13 @@ Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I
 ### [Dashboard UI](https://hairulysin.shinyapps.io/Netflix/)
 - Enhanced data quality through preprocessing before visualization.
 - Created interactive web dashboards using Flask and Streamlit to visualize project data and insights.
-![Dashboard Preview]![dash](https://github.com/hairulysin/Portofolio/assets/90087096/16d777ae-6747-40a1-8823-66f2cf952a08)
+<div align="center"><img src="https://github.com/hairulysin/Portofolio/assets/90087096/16d777ae-6747-40a1-8823-66f2cf952a08" alt="Dashboard Preview" width="50%"></div>
 
 ### [Insightful Reports (Rpubs)](https://rpubs.com/hairulysin)
 - Developed effective reports using Rpubs for streamlined communication.
 - Conducted data analysis using the R programming language and applied Machine Learning models for insights.
 - Designed interactive dashboards with Flexdashboard and Shiny.
-![Rpubs Preview]![rpubs](https://github.com/hairulysin/Portofolio/assets/90087096/dfa944c5-ef0e-40b9-bd42-2a4ca0e78c4b)
-
+<div align="center"><img src="https://github.com/hairulysin/Portofolio/assets/90087096/dfa944c5-ef0e-40b9-bd42-2a4ca0e78c4b" alt="Rpubs Preview" width="50%"></div>
 
 ## Skills
 - **Technical Skills**: Python, R, SQL, Data Preprocessing, Data Visualization, Report Writing, Statistics, Dynamic Dashboard, Machine Learning Algorithm, Tensorflow.
