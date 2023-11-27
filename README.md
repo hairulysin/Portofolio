@@ -1,4 +1,4 @@
-![dash](https://github.com/hairulysin/Portofolio/assets/90087096/424721db-0ee6-4b9c-80cf-e1dfb2bdebfd)# Hairul Yasin's Data Science Portfolio
+# Hairul Yasin's Data Science Portfolio
 
 ## About Me
 Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I specialize in leveraging data-driven insights to make informed decisions. With a solid foundation in Python, R, and deep learning algorithms, I've successfully implemented predictive models and conducted comprehensive data analyses.
