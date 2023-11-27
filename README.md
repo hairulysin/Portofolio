@@ -21,7 +21,7 @@ Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I
 - *03/2023 – 07/2023*
 - Proficient in Data Wrangling, Exploratory Data Analysis, and creating interactive dashboards using RShiny. 
 <div align="center">
-  <p>**Letter of Recomendation**</p>
+  <p>Letter of Recomendation</p>
   <img src="https://github.com/hairulysin/Portofolio/assets/90087096/8bc6bfa9-12ab-4194-9736-304768b882f8" alt="Dashboard Preview" width="65%">
 </div>
 
