@@ -37,6 +37,8 @@ Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I
 - Developed effective reports using Rpubs for streamlined communication.
 - Conducted data analysis using the R programming language and applied Machine Learning models for insights.
 - Designed interactive dashboards with Flexdashboard and Shiny.
+![Rpubs Preview]![rpubs](https://github.com/hairulysin/Portofolio/assets/90087096/dfa944c5-ef0e-40b9-bd42-2a4ca0e78c4b)
+
 
 ## Skills
 - **Technical Skills**: Python, R, SQL, Data Preprocessing, Data Visualization, Report Writing, Statistics, Dynamic Dashboard, Machine Learning Algorithm, Tensorflow.
