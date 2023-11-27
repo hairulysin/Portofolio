@@ -1,33 +1,46 @@
-# Hairul Yasin's Data Science Portfolio
+![dash](https://github.com/hairulysin/Portofolio/assets/90087096/424721db-0ee6-4b9c-80cf-e1dfb2bdebfd)# Hairul Yasin's Data Science Portfolio
 
-Selamat datang di repositori proyek Machine Learning dan Data Science saya! Saya Hairul Yasin, seorang pengembang data dengan fokus pada analisis data, machine learning, dan proyek manajemen. Di bawah ini adalah beberapa proyek menarik yang telah saya kerjakan:
+## About Me
+Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I specialize in leveraging data-driven insights to make informed decisions. With a solid foundation in Python, R, and deep learning algorithms, I've successfully implemented predictive models and conducted comprehensive data analyses.
 
-## Proyek Machine Learning
+## Education
+- **Tadulako University**
+  - *Expected Graduation: 08/2025*
+  - Bachelor of Engineering in Informatics Engineering
+  - GPA: 3.84/4.00
 
-### [Analisis Dataset Menggunakan Algoritma Machine Learning](link_ke_proyek1)
-Dalam proyek ini, saya menerapkan berbagai algoritma machine learning seperti klasifikasi, regresi, dan pengelompokan untuk menganalisis dataset tertentu. Tujuan utama adalah mendapatkan wawasan baru dari data dan mengimplementasikan model yang akurat.
+## Experience
 
-### [Proyek Klasifikasi](link_ke_proyek2)
-Pada proyek ini, saya memfokuskan diri pada tugas klasifikasi dengan menggunakan algoritma machine learning. Saya melakukan pra-pemrosesan data, memilih model yang tepat, dan mengevaluasi kinerja model dengan hati-hati.
+### Bangkit Academy led by Google, Tokopedia, Gojek & Traveloka
+- *Apprenticeship | Machine Learning Path Student*
+- *Expected: 01/2024*
+- Gained strong fundamental Machine Learning concepts and developed an NLP model with 98% accuracy using TensorFlow for sentiment analysis in financial news.
 
-## Proyek Manajemen
+### Algoritma Data Science School
+- *Cohort & Ambassador | Full Stack Data Science*
+- *03/2023 – 07/2023*
+- Proficient in Data Wrangling, Exploratory Data Analysis, and creating interactive dashboards using RShiny.
 
-### [Dasbor Interaktif di Shiny](https://hairulysin.shinyapps.io/Netflix/)
-Saya mengembangkan dasbor interaktif menggunakan Shiny, sebuah framework R untuk membuat aplikasi web interaktif. Dasbor ini memvisualisasikan data dengan jelas dan memberikan pengguna pengalaman yang interaktif.
+## Projects
 
-### [Publikasi di Rpubs](https://rpubs.com/hairulysin)
-Sebuah laporan dan dasbor interaktif yang saya buat menggunakan Rpubs. Platform ini memungkinkan saya untuk menunjukkan kemampuan saya dalam menggunakan R dan berbagi hasil analisis dengan publik.
+### [Machine Learning Project](https://github.com/hairulysin/Portofolio)
+- Implemented the K-Means algorithm for data clustering tasks.
+- Developed an image classification model using various Machine Learning techniques.
+- Analyzed time series data with a focus on precise categorization and accurate predictions.
 
-## Keterampilan
+### [Dashboard UI](https://hairulysin.shinyapps.io/Netflix/)
+- Enhanced data quality through preprocessing before visualization.
+- Created interactive web dashboards using Flask and Streamlit to visualize project data and insights.
+![Dashboard Preview]![dash](https://github.com/hairulysin/Portofolio/assets/90087096/16d777ae-6747-40a1-8823-66f2cf952a08)
 
-- **Analisis Data**: Pengalaman dalam menganalisis dataset dengan menggunakan berbagai algoritma machine learning.
-- **Pemrosesan Data**: Keterampilan pra-pemrosesan data untuk meningkatkan kualitas data.
-- **R Programming**: Kemampuan tinggi dalam menggunakan bahasa pemrograman R untuk analisis data dan pengembangan aplikasi interaktif.
+### [Insightful Reports (Rpubs)](https://rpubs.com/hairulysin)
+- Developed effective reports using Rpubs for streamlined communication.
+- Conducted data analysis using the R programming language and applied Machine Learning models for insights.
+- Designed interactive dashboards with Flexdashboard and Shiny.
 
-## Cara Menjalankan Projek
+## Skills
+- **Technical Skills**: Python, R, SQL, Data Preprocessing, Data Visualization, Report Writing, Statistics, Dynamic Dashboard, Machine Learning Algorithm, Tensorflow.
+- **Languages**: Fluent in Indonesian, Intermediate in English.
+- **Tools**: Jupyter Notebook, Anaconda, Tableau, R Studio, MySQL, Git.
 
-Setiap proyek memiliki petunjuk khusus untuk dijalankan. Silakan baca [dokumentasi](link_ke_dokumentasi) untuk informasi lebih lanjut.
-
-Jangan ragu untuk berkontribusi atau memberikan saran! Terima kasih atas kunjungannya.
-
--- Hairul Yasin
+Feel free to explore my projects and reach out for collaboration or discussion!
