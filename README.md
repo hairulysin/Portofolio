@@ -19,8 +19,8 @@ Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I
 ### Algoritma Data Science School
 - *Cohort & Ambassador | Full Stack Data Science*
 - *03/2023 – 07/2023*
-- Proficient in Data Wrangling, Exploratory Data Analysis, and creating interactive dashboards using RShiny.
-- [Letter of Recommendation from Algoritma]![LoR](https://github.com/hairulysin/Portofolio/assets/90087096/8bc6bfa9-12ab-4194-9736-304768b882f8)
+- Proficient in Data Wrangling, Exploratory Data Analysis, and creating interactive dashboards using RShiny. 
+- [Letter of Recommendation from Algoritma] <div align="center"><img src="https://github.com/hairulysin/Portofolio/assets/90087096/8bc6bfa9-12ab-4194-9736-304768b882f8" alt="Dashboard Preview" width="50%"></div>
 
 
 ## Projects
