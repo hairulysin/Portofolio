@@ -29,6 +29,11 @@ Hello! I'm Hairul Yasin, a passionate data scientist based in Palu, Indonesia. I
 
 ## Projects
 
+### [Finance AI Proposal - PukulEnam](https://github.com/hairulysin/PyCuan)
+- Developed a sentiment analysis model with 98% accuracy to assess financial news sentiments.
+- Created a time series model for predicting stock opening prices.
+- Implemented an inference model for deployment as a user-friendly widget.
+
 ### [Machine Learning Project](https://github.com/hairulysin/Portofolio)
 - Implemented the K-Means algorithm for data clustering tasks.
 - Developed an image classification model using various Machine Learning techniques.
